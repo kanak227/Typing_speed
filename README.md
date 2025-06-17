@@ -1,0 +1,1 @@
+Basic typing speed tester using javascript
